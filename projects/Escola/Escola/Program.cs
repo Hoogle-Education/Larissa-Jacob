@@ -1,4 +1,5 @@
 ﻿using Escola.Entities;
+using Escola.Entities.Enums;
 
 namespace Escola {
 
@@ -6,15 +7,21 @@ namespace Escola {
 
         public static void Main(string[] args) {
 
-            Student jhon = new Student("Jhon", 19);
-            jhon.makeExam();
+            // upcasting: classe filha mencionada como classe mãe
+            Pessoa jhon = new Student("Jhon", 19, Eletiva.SCIENCE);
 
-            Student maria = new Student("Maria", 18, "2019219821");
-            maria.makeExam();
+            // downcasting: classe mãe se transformando em classe filha
+            Student studentJhon = null;
 
-            jhon.Score = 2.4;
+            if(jhon is Student) {
+                studentJhon = jhon as Student;
+            } else {
+                throw new ArgumentException();
+            }
 
-            Console.WriteLine($"Score = {jhon.Score}! Result: {jhon.IsApproved()}");
+            studentJhon.MakeExam();
+
+            Console.WriteLine($"Score = {studentJhon.Score}! Result: {studentJhon.IsApproved()}");
 
         }
 
