@@ -1,0 +1,15 @@
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.csproj.AssemblyReference.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.AssemblyInfoInputs.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.AssemblyInfo.cs
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.csproj.CoreCompileInputs.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\bin\Debug\net6.0\Car Rental Service.exe
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\bin\Debug\net6.0\Car Rental Service.deps.json
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\bin\Debug\net6.0\Car Rental Service.runtimeconfig.json
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\bin\Debug\net6.0\Car Rental Service.dll
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\bin\Debug\net6.0\Car Rental Service.pdb
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.dll
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\refint\Car Rental Service.dll
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.pdb
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\Car Rental Service.genruntimeconfig.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\Car Rental Service\Car Rental Service\obj\Debug\net6.0\ref\Car Rental Service.dll
