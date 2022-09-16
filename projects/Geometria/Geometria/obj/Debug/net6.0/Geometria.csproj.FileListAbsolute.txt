@@ -1,0 +1,5 @@
+C:\Aulas\alunos\C#\Larissa Jacob\Geometria\Geometria\obj\Debug\net6.0\Geometria.csproj.AssemblyReference.cache
+C:\Aulas\alunos\C#\Larissa Jacob\Geometria\Geometria\obj\Debug\net6.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\alunos\C#\Larissa Jacob\Geometria\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfoInputs.cache
+C:\Aulas\alunos\C#\Larissa Jacob\Geometria\Geometria\obj\Debug\net6.0\Geometria.AssemblyInfo.cs
+C:\Aulas\alunos\C#\Larissa Jacob\Geometria\Geometria\obj\Debug\net6.0\Geometria.csproj.CoreCompileInputs.cache
