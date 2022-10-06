@@ -1,0 +1,15 @@
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\bin\Debug\net6.0\EstruturasDeDados.exe
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\bin\Debug\net6.0\EstruturasDeDados.deps.json
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\bin\Debug\net6.0\EstruturasDeDados.runtimeconfig.json
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\bin\Debug\net6.0\EstruturasDeDados.dll
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\bin\Debug\net6.0\EstruturasDeDados.pdb
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.csproj.AssemblyReference.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.AssemblyInfoInputs.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.AssemblyInfo.cs
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.csproj.CoreCompileInputs.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.dll
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\refint\EstruturasDeDados.dll
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.pdb
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\EstruturasDeDados.genruntimeconfig.cache
+C:\Aulas\alunos\C#\Larissa Jacob\projects\EstruturasDeDados\EstruturasDeDados\obj\Debug\net6.0\ref\EstruturasDeDados.dll
